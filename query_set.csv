@@ -1,0 +1,151 @@
+query_id,query_text,relevant_paper
+q001,How do LLM agents balance prior knowledge against active search when solving complex reasoning tasks?,2605.19782v1_Prior Knowledge or Search A Study of LLM Agents in.pdf
+q002,What experimental findings reveal the trade-offs between retrieval-augmented and parametric knowledge in LLM agents?,2605.19782v1_Prior Knowledge or Search A Study of LLM Agents in.pdf
+q003,Under what conditions does prior knowledge outperform search-based strategies in LLM agent benchmarks?,2605.19782v1_Prior Knowledge or Search A Study of LLM Agents in.pdf
+q004,How does the Stitched Value Model improve alignment of diffusion models with human preferences?,2605.19804v1_Stitched Value Model for Diffusion Alignment.pdf
+q005,What is the role of value stitching in guiding the denoising process of diffusion models?,2605.19804v1_Stitched Value Model for Diffusion Alignment.pdf
+q006,How does the stitched value alignment method compare to RLHF-based approaches for diffusion model fine-tuning?,2605.19804v1_Stitched Value Model for Diffusion Alignment.pdf
+q007,How does Latent Laplace Diffusion handle irregular sampling intervals in multivariate time series?,2605.19805v1_Latent Laplace Diffusion for Irregular Multivariat.pdf
+q008,What advantages does the Laplace distribution assumption provide over Gaussian diffusion for time series imputation?,2605.19805v1_Latent Laplace Diffusion for Irregular Multivariat.pdf
+q009,How does the Latent Laplace model perform on downstream forecasting tasks compared to existing irregular time series methods?,2605.19805v1_Latent Laplace Diffusion for Irregular Multivariat.pdf
+q010,What challenges define in-the-wild conditions for automatic speech recognition systems in Mega-ASR?,2605.19833v1_Mega-ASR Towards In-the-wild2 Speech Recognition v.pdf
+q011,How does Mega-ASR address noise and speaker variability in unconstrained acoustic environments?,2605.19833v1_Mega-ASR Towards In-the-wild2 Speech Recognition v.pdf
+q012,What training strategies and datasets enable robust speech recognition in highly variable real-world conditions?,2605.19833v1_Mega-ASR Towards In-the-wild2 Speech Recognition v.pdf
+q013,How does a closed-loop state-centric design improve coordination and feedback in multi-agent systems?,2605.19834v1_A Closed-loop State-centric Multi-agent Framework .pdf
+q014,What mechanisms allow agents to maintain consistent shared state representations during collaborative tasks?,2605.19834v1_A Closed-loop State-centric Multi-agent Framework .pdf
+q015,How does the closed-loop multi-agent framework handle partial observability and state estimation errors in distributed settings?,2605.19834v1_A Closed-loop State-centric Multi-agent Framework .pdf
+q016,What fine-grained visual understanding tasks does FineBench introduce to evaluate vision-language models?,2605.19846v2_FineBench Benchmarking and Enhancing Vision-Langua.pdf
+q017,How does FineBench expose limitations of current VLMs on detailed attribute-level recognition?,2605.19846v2_FineBench Benchmarking and Enhancing Vision-Langua.pdf
+q018,What enhancement techniques are proposed to improve vision-language model performance on fine-grained tasks?,2605.19846v2_FineBench Benchmarking and Enhancing Vision-Langua.pdf
+q019,How can node representations be learned without relying on node features in graph neural networks?,2605.19916v1_Fast and Featureless Node Representation Learning .pdf
+q020,What structural properties of graphs are leveraged to generate meaningful featureless node embeddings?,2605.19916v1_Fast and Featureless Node Representation Learning .pdf
+q021,How does the featureless node representation method's computational efficiency compare to feature-based GNN approaches on large graphs?,2605.19916v1_Fast and Featureless Node Representation Learning .pdf
+q022,How does parallelization accelerate Counterfactual Regret Minimization for real-time game solving?,2605.19928v1_Real-Time Parallel Counterfactual Regret Minimizat.pdf
+q023,What synchronization strategies enable efficient parallel CFR without compromising convergence guarantees?,2605.19928v1_Real-Time Parallel Counterfactual Regret Minimizat.pdf
+q024,On which imperfect information game benchmarks does the real-time parallel CFR demonstrate improved performance?,2605.19928v1_Real-Time Parallel Counterfactual Regret Minimizat.pdf
+q025,How does measure theory provide a formal framework for analyzing the structure of reasoning in neural models?,2605.19944v1_A Measure-Theoretic Analysis of Reasoning Structur.pdf
+q026,What mathematical properties of reasoning chains can be characterized through a measure-theoretic lens?,2605.19944v1_A Measure-Theoretic Analysis of Reasoning Structur.pdf
+q027,How does the measure-theoretic analysis of reasoning structures inform the design of more reliable AI reasoning systems?,2605.19944v1_A Measure-Theoretic Analysis of Reasoning Structur.pdf
+q028,What distinguishes optimization-based adversarial prompts from other jailbreak attack strategies against LLMs?,2605.19966v1_Detecting Fluent Optimization-Based Adversarial Pr.pdf
+q029,How does the proposed detection method identify fluent adversarial prompts that evade perplexity-based filters?,2605.19966v1_Detecting Fluent Optimization-Based Adversarial Pr.pdf
+q030,What are the false positive rates and detection accuracy of the proposed adversarial prompt detector?,2605.19966v1_Detecting Fluent Optimization-Based Adversarial Pr.pdf
+q031,What types of data contamination affect the validity of LLM benchmark evaluations?,2605.19999v1_LLM Benchmark Datasets Should Be Contamination-Res.pdf
+q032,How can benchmark designers build contamination-resistant datasets to ensure fair evaluation of language models?,2605.19999v1_LLM Benchmark Datasets Should Be Contamination-Res.pdf
+q033,What empirical evidence demonstrates the impact of training data contamination on LLM benchmark scores?,2605.19999v1_LLM Benchmark Datasets Should Be Contamination-Res.pdf
+q034,How do reward poisoning attacks exploit disagreement among multiple critic networks in reinforcement learning?,2605.20037v1_When Critics Disagree Adaptive Reward Poisoning At.pdf
+q035,What adaptive strategies allow reward poisoning to remain effective against ensemble-based defenses in RL?,2605.20037v1_When Critics Disagree Adaptive Reward Poisoning At.pdf
+q036,How can RL systems be hardened against adaptive reward poisoning while maintaining training efficiency?,2605.20037v1_When Critics Disagree Adaptive Reward Poisoning At.pdf
+q037,How does code readability and cleanliness influence the performance of LLM-based coding agents?,2605.20049v1_Does Code Cleanliness Affect Coding Agents A Contr.pdf
+q038,What controlled experimental design isolates the effect of code style from functionality in coding agent evaluation?,2605.20049v1_Does Code Cleanliness Affect Coding Agents A Contr.pdf
+q039,Which aspects of code cleanliness such as naming or structure have the greatest impact on coding agent performance?,2605.20049v1_Does Code Cleanliness Affect Coding Agents A Contr.pdf
+q040,What risks are jointly calibrated in the BalanceRAG framework for cascaded retrieval-augmented generation?,2605.20084v1_BalanceRAG Joint Risk Calibration for Cascaded Ret.pdf
+q041,How does BalanceRAG prevent over-retrieval and under-retrieval in multi-stage RAG pipelines?,2605.20084v1_BalanceRAG Joint Risk Calibration for Cascaded Ret.pdf
+q042,How does the BalanceRAG risk calibration approach compare to standard RAG baselines on knowledge-intensive NLP tasks?,2605.20084v1_BalanceRAG Joint Risk Calibration for Cascaded Ret.pdf
+q043,How does neurosymbolic integration enhance argument mining and reasoning at inference time?,2605.20098v1_Neurosymbolic Learning for Inference-Time Argument.pdf
+q044,What symbolic components are combined with neural representations to improve logical consistency in argumentation?,2605.20098v1_Neurosymbolic Learning for Inference-Time Argument.pdf
+q045,How does the neurosymbolic approach handle implicit argument structures that purely neural models fail to capture?,2605.20098v1_Neurosymbolic Learning for Inference-Time Argument.pdf
+q046,How does scaling model size and training data improve time series forecasting performance in Toto 2.0?,2605.20119v1_Toto 20 Time Series Forecasting Enters the Scaling.pdf
+q047,What architectural innovations in Toto 2.0 enable effective scaling for diverse time series domains?,2605.20119v1_Toto 20 Time Series Forecasting Enters the Scaling.pdf
+q048,How does Toto 2.0 compare to specialized forecasting models on standard benchmarks like ETT and M4?,2605.20119v1_Toto 20 Time Series Forecasting Enters the Scaling.pdf
+q049,What functionalities does the Aristotle API provide to support AI-assisted formal theorem proving?,2605.20120v1_Using Aristotle API for AI-Assisted Theorem Provin.pdf
+q050,How does the Aristotle API system integrate large language model reasoning with symbolic proof verification?,2605.20120v1_Using Aristotle API for AI-Assisted Theorem Provin.pdf
+q051,On which benchmark theorem-proving tasks does the Aristotle API-based system demonstrate measurable improvement?,2605.20120v1_Using Aristotle API for AI-Assisted Theorem Provin.pdf
+q052,What limitations of standard saliency-based visual attribution methods are identified for chest X-ray AI systems?,2605.20158v1_Rethinking Visual Attribution for Chest X-ray Reas.pdf
+q053,How does the proposed approach improve alignment between model attention and radiologist-annotated regions in X-rays?,2605.20158v1_Rethinking Visual Attribution for Chest X-ray Reas.pdf
+q054,What evaluation metrics are used to assess the clinical validity of visual attributions in chest X-ray diagnosis?,2605.20158v1_Rethinking Visual Attribution for Chest X-ray Reas.pdf
+q055,What are atoms of thought and how do they serve as fundamental units for EEG representation learning?,2605.20182v1_Atoms of Thought Universal EEG Representation Lear.pdf
+q056,How does universal EEG representation learning generalize across different brain-computer interface tasks?,2605.20182v1_Atoms of Thought Universal EEG Representation Lear.pdf
+q057,What self-supervised learning strategies are used to pretrain EEG encoders without task-specific labels?,2605.20182v1_Atoms of Thought Universal EEG Representation Lear.pdf
+q058,What does SDM measure that standard accuracy metrics overlook when evaluating model robustness?,2605.20308v1_SDM A Powerful Tool for Evaluating Model Robustnes.pdf
+q059,How does SDM capture distributional shifts between training and test data to assess model robustness?,2605.20308v1_SDM A Powerful Tool for Evaluating Model Robustnes.pdf
+q060,How does SDM-based evaluation correlate with real-world model failures compared to existing robustness benchmarks?,2605.20308v1_SDM A Powerful Tool for Evaluating Model Robustnes.pdf
+q061,What architectural upgrades does FullFlow introduce to improve text-to-image flow matching models?,2605.20316v1_FullFlow Upgrading Text-to-Image Flow Matching Mod.pdf
+q062,How does FullFlow address the quality-diversity tradeoff in flow-based generative models for image synthesis?,2605.20316v1_FullFlow Upgrading Text-to-Image Flow Matching Mod.pdf
+q063,What conditioning mechanisms allow FullFlow to achieve better text alignment in generated images?,2605.20316v1_FullFlow Upgrading Text-to-Image Flow Matching Mod.pdf
+q064,How do full-duplex spoken dialogue systems manage turn-taking without explicit end-of-utterance markers?,2605.20356v1_Synchronization and Turn-Taking in Full-Duplex Spe.pdf
+q065,What synchronization mechanisms prevent interruption conflicts in simultaneous full-duplex speech systems?,2605.20356v1_Synchronization and Turn-Taking in Full-Duplex Spe.pdf
+q066,How does the full-duplex model learn natural conversational timing from human dialogue data?,2605.20356v1_Synchronization and Turn-Taking in Full-Duplex Spe.pdf
+q067,What domain-specific challenges arise when classifying cybersecurity documents using language models?,2605.20368v1_Security Document Classification with a Fine-Tuned.pdf
+q068,How does fine-tuning on security-specific corpora improve classification of threat intelligence documents?,2605.20368v1_Security Document Classification with a Fine-Tuned.pdf
+q069,Which document categories and threat types are most challenging for automated security document classification?,2605.20368v1_Security Document Classification with a Fine-Tuned.pdf
+q070,How does STELLAR scale 3D perception architectures for autonomous driving using large foundation models?,2605.20390v1_STELLAR Scaling 3D Perception Large Models for Aut.pdf
+q071,What sensor modalities and data representations are integrated in STELLAR's multi-scale 3D perception pipeline?,2605.20390v1_STELLAR Scaling 3D Perception Large Models for Aut.pdf
+q072,How does STELLAR handle long-range object detection and dense scene understanding in autonomous driving scenarios?,2605.20390v1_STELLAR Scaling 3D Perception Large Models for Aut.pdf
+q073,How is MXFP4 quantization error decomposed to understand its impact on LLM reinforcement learning?,2605.20402v1_Decomposing MXFP4 quantization error for LLM reinf.pdf
+q074,What components of MXFP4 quantization error are most damaging to RL training stability and final reward?,2605.20402v1_Decomposing MXFP4 quantization error for LLM reinf.pdf
+q075,How can MXFP4 quantization be compensated or corrected during reinforcement learning fine-tuning of large language models?,2605.20402v1_Decomposing MXFP4 quantization error for LLM reinf.pdf
+q076,What is high-order Theory of Mind and why is it challenging for current AI systems?,2605.20423v1_OSCToM RL-Guided Adversarial Generation for High-O.pdf
+q077,How does reinforcement learning guide adversarial generation to probe Theory of Mind reasoning in language models?,2605.20423v1_OSCToM RL-Guided Adversarial Generation for High-O.pdf
+q078,What evaluation framework does OSCToM introduce for measuring multi-level theory of mind understanding?,2605.20423v1_OSCToM RL-Guided Adversarial Generation for High-O.pdf
+q079,How are emotional states modeled and updated during agent-to-agent conversational interactions?,2605.20442v1_Modeling Emotional Dynamics in Agent-to-Agent Inte.pdf
+q080,What computational framework captures the bidirectional influence of emotion on agent decision-making?,2605.20442v1_Modeling Emotional Dynamics in Agent-to-Agent Inte.pdf
+q081,How does incorporating emotional dynamics affect the naturalness and coherence of agent-to-agent dialogue?,2605.20442v1_Modeling Emotional Dynamics in Agent-to-Agent Inte.pdf
+q082,How does LLM pretraining shape the geometric structure of representation spaces toward a generalizable manifold?,2605.20449v1_LLM Pretraining Shapes a Generalizable Manifold In.pdf
+q083,What properties of the learned manifold contribute to generalization across downstream tasks in pretrained LLMs?,2605.20449v1_LLM Pretraining Shapes a Generalizable Manifold In.pdf
+q084,How do different pretraining objectives such as causal LM and masked LM produce different manifold geometries?,2605.20449v1_LLM Pretraining Shapes a Generalizable Manifold In.pdf
+q085,What deep learning architecture enables pixel-wise lesion segmentation on COVID-19 CT scans?,2605.20459v1_Pixel Wised Lesion Prediction on COVID-19 CT Image.pdf
+q086,How does the lesion prediction model handle class imbalance between healthy and lesion-affected regions in CT images?,2605.20459v1_Pixel Wised Lesion Prediction on COVID-19 CT Image.pdf
+q087,What clinical metrics validate the accuracy of pixel-wise COVID-19 lesion predictions in radiological settings?,2605.20459v1_Pixel Wised Lesion Prediction on COVID-19 CT Image.pdf
+q088,How does differential test-time scaling improve code generation quality without additional training?,2605.20473v1_Code Generation by Differential Test Time Scaling.pdf
+q089,What role does test difficulty estimation play in allocating compute resources during differential code generation?,2605.20473v1_Code Generation by Differential Test Time Scaling.pdf
+q090,How does differential test-time scaling compare to standard sampling strategies on coding benchmarks?,2605.20473v1_Code Generation by Differential Test Time Scaling.pdf
+q091,How can language agents be trained to accumulate and apply experience across multiple task interactions?,2605.20477v1_Training Language Agents to Learn from Experience.pdf
+q092,What memory and learning mechanisms allow language agents to improve performance through trial-and-error experience?,2605.20477v1_Training Language Agents to Learn from Experience.pdf
+q093,How does experience-based learning compare to static instruction following in language agent benchmarks?,2605.20477v1_Training Language Agents to Learn from Experience.pdf
+q094,How do codec-based transformations threaten the security of audio large language models?,2605.20519v1_Codec-Robust Attacks on Audio LLMs.pdf
+q095,What attack vectors exploit audio codec compression to inject adversarial signals into audio LLMs?,2605.20519v1_Codec-Robust Attacks on Audio LLMs.pdf
+q096,What defenses can mitigate codec-robust adversarial attacks while preserving audio LLM functionality?,2605.20519v1_Codec-Robust Attacks on Audio LLMs.pdf
+q097,What limitations of outcome-only leaderboards motivate the AgentAtlas evaluation framework for LLM agents?,2605.20530v1_AgentAtlas Beyond Outcome Leaderboards for LLM Age.pdf
+q098,How does AgentAtlas measure intermediate reasoning quality and decision-making in LLM agent trajectories?,2605.20530v1_AgentAtlas Beyond Outcome Leaderboards for LLM Age.pdf
+q099,What new dimensions of agent performance does AgentAtlas reveal that are hidden by final-outcome metrics?,2605.20530v1_AgentAtlas Beyond Outcome Leaderboards for LLM Age.pdf
+q100,How does explicit state management improve the reliability of collaboration in multi-agent LLM systems?,2605.20563v1_Multi-agent Collaboration with State Management.pdf
+q101,What state tracking mechanisms prevent information loss or inconsistency in long multi-agent LLM workflows?,2605.20563v1_Multi-agent Collaboration with State Management.pdf
+q102,How does centralized versus distributed state management affect coordination efficiency in multi-agent tasks?,2605.20563v1_Multi-agent Collaboration with State Management.pdf
+q103,How does retrieval augmentation address the scarcity of parallel data in low-resource language translation?,2605.20626v1_Retrieval-Augmented Long-Context Translation for C.pdf
+q104,What retrieval strategies are most effective for handling long-context dependencies in low-resource machine translation?,2605.20626v1_Retrieval-Augmented Long-Context Translation for C.pdf
+q105,How does the retrieval-augmented translation system compare to standard neural machine translation on low-resource language pairs?,2605.20626v1_Retrieval-Augmented Long-Context Translation for C.pdf
+q106,What are treacherous optimizations and how do they undermine the trustworthiness of trained AI models?,2605.20641v1_Trusted Weights Treacherous Optimizations Optimiza.pdf
+q107,How can optimization constraints be designed to prevent deceptive alignment during model training?,2605.20641v1_Trusted Weights Treacherous Optimizations Optimiza.pdf
+q108,What theoretical framework connects training objectives to the emergence of trusted versus treacherous behaviors in neural networks?,2605.20641v1_Trusted Weights Treacherous Optimizations Optimiza.pdf
+q109,How does the self-limiting gradient mechanism in DIVE achieve efficient embedding compression?,2605.20689v1_DIVE Embedding Compression via Self-Limiting Gradi.pdf
+q110,What trade-offs between compression ratio and embedding quality does DIVE navigate?,2605.20689v1_DIVE Embedding Compression via Self-Limiting Gradi.pdf
+q111,How does DIVE compare to existing quantization and pruning methods for embedding layer compression?,2605.20689v1_DIVE Embedding Compression via Self-Limiting Gradi.pdf
+q112,What diagnostic capabilities does SCRIBE introduce for evaluating speech transcription systems?,2605.20712v1_SCRIBE Diagnostic Evaluation and Rich Transcriptio.pdf
+q113,How does SCRIBE's rich transcription format capture paralinguistic and prosodic information beyond words?,2605.20712v1_SCRIBE Diagnostic Evaluation and Rich Transcriptio.pdf
+q114,What evaluation dimensions does SCRIBE measure that standard Word Error Rate metrics fail to capture?,2605.20712v1_SCRIBE Diagnostic Evaluation and Rich Transcriptio.pdf
+q115,How does distributional alignment serve as a more principled criterion than pointwise preference optimization in RLHF?,2605.20730v1_Distributional Alignment as a Criterion for Design.pdf
+q116,What mathematical formulation of distributional alignment guides the design of reward models in RLHF?,2605.20730v1_Distributional Alignment as a Criterion for Design.pdf
+q117,How does optimizing for distributional alignment reduce reward hacking and overoptimization in RLHF training?,2605.20730v1_Distributional Alignment as a Criterion for Design.pdf
+q118,What role does interaction locality play in the emergence of hierarchical recursive reasoning in neural networks?,2605.20784v1_Interaction Locality in Hierarchical Recursive Rea.pdf
+q119,How does constraining local interactions enable scalable recursive computation in deep reasoning models?,2605.20784v1_Interaction Locality in Hierarchical Recursive Rea.pdf
+q120,What theoretical bounds on interaction locality are established for hierarchical reasoning architectures?,2605.20784v1_Interaction Locality in Hierarchical Recursive Rea.pdf
+q121,How well do locally-run LLMs perform on GraphRAG tasks compared to cloud-based frontier models?,2605.20815v1_GraphRAG on Consumer Hardware Benchmarking Local L.pdf
+q122,What hardware configurations enable efficient graph-based retrieval augmented generation on consumer devices?,2605.20815v1_GraphRAG on Consumer Hardware Benchmarking Local L.pdf
+q123,What graph construction and traversal strategies optimize GraphRAG performance on memory-constrained hardware?,2605.20815v1_GraphRAG on Consumer Hardware Benchmarking Local L.pdf
+q124,How does PlanningBench ensure that generated planning tasks are both scalable in difficulty and formally verifiable?,2605.20873v1_PlanningBench Generating Scalable and Verifiable P.pdf
+q125,What automated task generation methods does PlanningBench use to create diverse planning challenges for LLMs?,2605.20873v1_PlanningBench Generating Scalable and Verifiable P.pdf
+q126,How do current LLMs perform on PlanningBench tasks and what planning capability gaps are revealed?,2605.20873v1_PlanningBench Generating Scalable and Verifiable P.pdf
+q127,What does governance by construction mean and how does it differ from post-hoc alignment methods for AI agents?,2605.20874v1_Governance by Construction for Generalist Agents.pdf
+q128,How can governance constraints be architecturally embedded into generalist AI agent design?,2605.20874v1_Governance by Construction for Generalist Agents.pdf
+q129,What formal guarantees does governance by construction provide for agent behavior within specified boundaries?,2605.20874v1_Governance by Construction for Generalist Agents.pdf
+q130,How does DASH accelerate differentiable architecture search for hybrid neural network models?,2605.20936v1_DASH Fast Differentiable Architecture Search for H.pdf
+q131,What search space does DASH explore to discover efficient hybrid architectures combining different operators?,2605.20936v1_DASH Fast Differentiable Architecture Search for H.pdf
+q132,How does DASH's search efficiency compare to prior DARTS-based methods in terms of GPU hours and final accuracy?,2605.20936v1_DASH Fast Differentiable Architecture Search for H.pdf
+q133,Why do current safety-aligned LLMs fail to maintain consistent refusals across different contextual framings?,2605.20994v1_Towards Context-Invariant Safety Alignment for Lar.pdf
+q134,What training approach produces context-invariant safety behavior that resists prompt-engineering attacks?,2605.20994v1_Towards Context-Invariant Safety Alignment for Lar.pdf
+q135,How is context-invariant safety alignment evaluated across roleplay technical and hypothetical framings?,2605.20994v1_Towards Context-Invariant Safety Alignment for Lar.pdf
+q136,What legal reasoning challenges require fine-grained claim-level retrieval beyond standard passage-level RAG?,2605.21071v1_Fine-grained Claim-level RAG Benchmark for Law.pdf
+q137,How is the legal RAG benchmark constructed to evaluate claim-level retrieval precision in juridical contexts?,2605.21071v1_Fine-grained Claim-level RAG Benchmark for Law.pdf
+q138,How do current RAG systems perform on legal claim verification and what retrieval failures are most common?,2605.21071v1_Fine-grained Claim-level RAG Benchmark for Law.pdf
+q139,How does decoupling communication from policy learning improve robustness in multi-agent reinforcement learning?,2605.21085v1_Decoupling Communication from Policy Robust MARL u.pdf
+q140,What communication failure models are considered and how does the MARL framework maintain coordination under them?,2605.21085v1_Decoupling Communication from Policy Robust MARL u.pdf
+q141,How does decoupled communication compare to standard MARL communication methods in noisy channel settings?,2605.21085v1_Decoupling Communication from Policy Robust MARL u.pdf
+q142,What NLP techniques are applied to automate ICD code assignment from psychiatric clinical notes?,2605.21154v1_Automated ICD Classification of Psychiatric Diagno.pdf
+q143,How does the system handle ambiguous and overlapping psychiatric diagnostic categories in ICD classification?,2605.21154v1_Automated ICD Classification of Psychiatric Diagno.pdf
+q144,What performance metrics are achieved on psychiatric note ICD classification compared to human coders?,2605.21154v1_Automated ICD Classification of Psychiatric Diagno.pdf
+q145,How does behavior consistency improve the safety and predictability of deep reinforcement learning agents?,2605.21214v1_Behavior-Consistent Deep Reinforcement Learning.pdf
+q146,What constraints or regularization terms enforce behavioral consistency across similar states in deep RL?,2605.21214v1_Behavior-Consistent Deep Reinforcement Learning.pdf
+q147,How does behavior-consistent deep RL balance exploration efficiency with the stability of learned policies?,2605.21214v1_Behavior-Consistent Deep Reinforcement Learning.pdf
+q148,How does serverless architecture enable FedCritic to perform federated critic learning without a central server?,2605.21418v1_FedCritic Serverless Federated Critic Learning-bas.pdf
+q149,What privacy-preserving mechanisms does FedCritic employ to protect local critic updates during federation?,2605.21418v1_FedCritic Serverless Federated Critic Learning-bas.pdf
+q150,How does serverless federated critic learning scale with the number of participating agents compared to centralized RL?,2605.21418v1_FedCritic Serverless Federated Critic Learning-bas.pdf
